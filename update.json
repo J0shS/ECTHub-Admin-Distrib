@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.1.0",
-  "latest_version": "0.1.0",
+  "min_supported_version": "0.1.1",
+  "latest_version": "0.1.1",
   "download_url": "https://github.com/J0shS/ECTHub-Admin-Distrib/releases/latest/download/Setup_ECTHub_Admin.exe",
-  "message": ""
+  "message": "Bug fix - SYNC was caching calslotIDs and not looking for new"
 }
