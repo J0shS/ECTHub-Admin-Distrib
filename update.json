@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.1.1",
-  "latest_version": "0.1.1",
+  "min_supported_version": "0.1.2",
+  "latest_version": "0.1.2",
   "download_url": "https://github.com/J0shS/ECTHub-Admin-Distrib/releases/latest/download/Setup_ECTHub_Admin.exe",
-  "message": "Bug fix - SYNC was caching calslotIDs and not looking for new"
+  "message": "Fix: Preserve nested empty folders end-to-end"
 }
