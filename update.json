@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.2.0",
-  "latest_version": "0.2.0",
+  "min_supported_version": "0.2.1",
+  "latest_version": "0.2.1",
   "download_url": "https://github.com/J0shS/ECTHub-Admin-Distrib/releases/latest/download/Setup_ECTHub_Admin.exe",
-  "message": "Fall 2026 Initial Release"
+  "message": "Clearer upload errors: a component not yet set up now says to run the Agent first. Upload totals now add up. Help updated for the new project setup."
 }
