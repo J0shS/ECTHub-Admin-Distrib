@@ -1,6 +1,6 @@
 {
   "min_supported_version": "0.2.1",
-  "latest_version": "0.2.1",
+  "latest_version": "0.2.2",
   "download_url": "https://github.com/J0shS/ECTHub-Admin-Distrib/releases/latest/download/Setup_ECTHub_Admin.exe",
-  "message": "Clearer upload errors: a component not yet set up now says to run the Agent first. Upload totals now add up. Help updated for the new project setup."
+  "message": "Fixes the probe model shown on CalBoard for non-CoreStar or blank probe vendors (previously showed TrackDrive-100 or OMNI-200). Corrected values appear after the next Agent run."
 }
